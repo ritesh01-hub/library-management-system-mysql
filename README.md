@@ -12,7 +12,8 @@ A Library Management System built using MySQL to manage books, members, and issu
 
 ## Technologies Used
 - MySQL
-
+## Image
+![img](https://github.com/ritesh01-hub/library-management-system-mysql/blob/528e7a322d9b4c96b9760eea7fe5c824515659e5/Screenshot%202026-04-25%20121807.png)
 ## Concepts Covered
 - SQL JOINs
 - Transactions (ACID properties)
